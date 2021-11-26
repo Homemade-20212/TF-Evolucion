@@ -1,5 +1,5 @@
 # Homemade
-Trabajo final del curso de Evolución de Software. En las ramas se encuentran los demás proyectos.
+Trabajo final Proyecto Homemade. En las ramas se encuentran los demás proyectos.
 
 ## Backend - Homemade
 Documentación: https://evolucion-homemade.herokuapp.com/swagger-ui/index.html
